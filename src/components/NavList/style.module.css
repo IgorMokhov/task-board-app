@@ -1,0 +1,4 @@
+.navlist ul {
+  display: flex;
+  flex-direction: column;
+}
