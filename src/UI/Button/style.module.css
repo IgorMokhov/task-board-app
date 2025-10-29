@@ -1,0 +1,20 @@
+.button {
+  font-size: 14px;
+  background-color: #008cf0;
+  color: #fff;
+  border-radius: 18px;
+  cursor: pointer;
+  border: none;
+  width: 150px;
+  height: 36px;
+}
+
+.medium {
+  font-size: 16px;
+  width: 183px;
+  height: 43px;
+}
+
+.button:disabled {
+  background-color: #7bb6e1;
+}
