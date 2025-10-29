@@ -1,0 +1,55 @@
+.edit {
+}
+
+.edit_content {
+  display: flex;
+  min-height: 100vh;
+}
+
+.edit_comments {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-right: 1px solid #d7dce0;
+  padding: 20px;
+  font-size: 13px;
+}
+
+.edit_comments h6 {
+  font-size: 13px;
+  color: #9e9ea6;
+  margin-bottom: 10px;
+}
+
+.edit_comments p {
+  color: #050506;
+  margin-bottom: 80px;
+}
+
+.edit_comments form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.edit_comments input {
+  background-color: inherit;
+  border: none;
+  margin-bottom: 100px;
+}
+
+.edit_comments input::placeholder {
+  font-family: 'Roboto', sans-serif;
+  color: #9e9ea6;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.edit_comments input:focus {
+  outline: none;
+}
+
+.edit_info {
+  width: 280px;
+  padding: 20px;
+}
