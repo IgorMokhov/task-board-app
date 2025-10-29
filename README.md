@@ -35,7 +35,7 @@ To start the development server, use the following command:
   npm run dev
 ```
 
-Visit the provided local URL in your browser to explore the "Auth App" application.
+Visit the provided local URL in your browser to explore the "Task Board App" application.
 
 <br/>
 
