@@ -13,7 +13,10 @@ To install and use the project, follow these steps:
 ### Environment Variables
 
 Before running the application, create a .env file in the root directory of the project and add the following key:
-VITE_TENANTGUID=YOUR_ID
+
+```sh
+  VITE_TENANTGUID=YOUR_ID
+```
 
 ### Installation
 
