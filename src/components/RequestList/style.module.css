@@ -1,0 +1,4 @@
+.requestlist {
+  display: flex;
+  flex-direction: column;
+}
