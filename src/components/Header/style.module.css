@@ -1,0 +1,31 @@
+.header {
+  background-color: #d1e0ed;
+  position: fixed;
+  top: 0;
+  left: 110px;
+  right: 0;
+  padding: 14px;
+}
+
+.header_input {
+  position: relative;
+  max-width: 685px;
+}
+
+.header_input input {
+  width: 100%;
+  border: 1px solid #42aaff;
+  border-radius: 18px;
+  padding: 10px;
+}
+
+.header_input input:focus {
+  outline: none;
+}
+
+.header_input img {
+  position: absolute;
+  top: 9px;
+  right: 12px;
+  width: 19px;
+}
