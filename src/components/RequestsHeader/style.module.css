@@ -1,0 +1,17 @@
+.requests_header {
+  display: grid;
+  grid-template-columns: 90px 570px 140px 1fr;
+  padding: 10px 16px;
+  border-bottom: 1px solid #dae0e7;
+  font-size: 14px;
+  color: #404146;
+}
+
+.requests_header div {
+  border-right: 1px solid #e2e7ea;
+  margin-right: 10px;
+}
+
+.requests_header div:last-child {
+  border-right: none;
+}
